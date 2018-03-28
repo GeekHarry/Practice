@@ -1,3 +1,4 @@
 sqlalchemy
 zhconv
 jieba
+psycopg2
